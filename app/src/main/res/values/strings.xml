@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alc 4 Phase 1</string>
+    <string name="title">WELCOME TO ALC PHASE 4.0</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="name">JOSEPH MWAURA</string>
+    <string name="track">Track: ANDROID DEV</string>
+    <string name="country">Country: KENYA</string>
+    <string name="email">Email: mwasjose321@gmail.com</string>
+    <string name="number">Phone number:0741542443</string>
+    <string name="slack">Slack Username:Joseh</string>
+    <string name="about">ABOUT ALC</string>
+</resources>
